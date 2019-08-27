@@ -212,6 +212,9 @@ li {
 	color: #fff;
 	margin: 0 10px;
 }
+.h {
+	width: 300px;
+}
 
 .redes-sociales .github { background: #0e0f13; }
 .redes-sociales .codepen { background: #3b3c3d; }
