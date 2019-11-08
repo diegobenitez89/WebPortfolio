@@ -1,2 +1,2 @@
 # Web personal.
-Primera web realizada con Html, Css y js.
+web personal realizada con Html, Css y js.
